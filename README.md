@@ -17,6 +17,11 @@ Then, to run the project you can do:
 $ node index.js
 ```
 
+## Notes
+
+You need to replace `API_KEY` with your API key, and `API_KEY_OWNER` with the wallet
+address of the API key owner.
+
 ## Kenshi GraphQL Documentation
 
 You can find the Kenshi Deep Index GraphQL documentation
